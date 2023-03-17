@@ -7,8 +7,8 @@
 
 🔭 I’m currently working on nothing
 
-[![@riansapriandrauf's Holopin board](https://holopin.me/riansapriandrauf)](https://holopin.io/@riansapriandrauf)<br>
-![riansapriandrauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=true&theme=tokyonight)<br>
+[![@riansapriandrauf's Holopin board](https://holopin.me/riansapriandrauf)](`)<br>
+<!-- ![riansapriandrauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=true&theme=tokyonight)<br> -->
 ![riansapriandrauf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riansapriandrauf&theme=tokyonight&hide_border=false&layout=compact)
 
 ### Support Me
