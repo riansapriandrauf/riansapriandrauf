@@ -1,10 +1,10 @@
-### Hi there, I'm Satria Aluh Perwira Nusa 👋
+### Hi there, I'm Rian Sapriand Rauf 👋
 
 ### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/riansaprianrauf/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=riansaprianrauf&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riansaprianrauf&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riansaprianrauf&layout=compact&theme=monokai&langs_count=12"/><br />
+<p align="center"><img src="https://www.codewars.com/users/riansapriandrauf/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riansapriandrauf&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riansapriandrauf&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
 <!--
