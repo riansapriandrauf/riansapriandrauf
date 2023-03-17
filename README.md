@@ -1,23 +1,15 @@
-### Hi there, I'm Rian Sapriand Rauf 👋
+### Hi 👋, I'm Rian Sapriand Rauf
 
-### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riansapriandrauf&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riansapriandrauf&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
+![riansapriandrauf's Profile views](https://komarev.com/ghpvc/?username=riansapriandrauf&style=flat&color=blueviolet)<br>
+<a href="https://instagram.com/yusril.id_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://nikkixploit.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF8800.svg?&style=flat&logo=blogger&logoColor=white" alt="Instagram"></a>
+<a href="https://facebook.com/nikkixploit"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-<!--
-**RianSapriandRauf/RianSapriandRauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on nothing
 
-Here are some ideas to get you started:
+[![@riansapriandrauf's Holopin board](https://holopin.me/riansapriandrauf)](https://holopin.io/@riansapriandrauf)<br>
+![riansapriandrauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=true&theme=tokyonight)<br>
+![riansapriandrauf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riansapriandrauf&theme=tokyonight&hide_border=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Support Me
+<a href="https://saweria.co/riansapriandrauf" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
