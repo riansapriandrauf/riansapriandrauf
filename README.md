@@ -7,7 +7,8 @@
 
 🔭 I’m currently working on nothing
 
-<a href="#"><img src="https://camo.githubusercontent.com/f8f4ce925c840446c8f4c6b1ded284b8730e1b912b4d742a44897da689eacec0/68747470733a2f2f636f646563726166746572732e696f2f6c616e64696e672f696d616765732f62796f782d62616e6e65722e706e67" alt="Image"></a><br>
+
+<br>
 ![riansapriandrauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=true&theme=tokyonight)<br>
 ![riansapriandrauf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riansapriandrauf&theme=tokyonight&hide_border=false&layout=compact)
 
