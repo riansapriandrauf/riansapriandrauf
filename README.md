@@ -1,13 +1,13 @@
 ### Hi 👋, I'm Rian Sapriand Rauf
 
 ![riansapriandrauf's Profile views](https://komarev.com/ghpvc/?username=riansapriandrauf&style=flat&color=blueviolet)<br>
-<a href="https://instagram.com/sapriandrf">
+<a href="https://instagram.com/sapriandrf" target="_blank" >
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://rianrauf.my.id/">
+<a href="https://rianrauf.my.id/" target="_blank" >
     <img src="https://img.shields.io/badge/Blog-FF8800.svg?&style=flat&logo=blogger&logoColor=white" alt="Blog">
 </a>
-<a href="https://facebook.com/rian.s.5249349">
+<a href="https://facebook.com/rian.s.5249349" target="_blank" >
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
