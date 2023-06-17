@@ -12,7 +12,7 @@
 </a>
 
 🔭 I’m currently working on nothing<br>
-![Rian Sapriand Rauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansekai&show_icons=true&theme=tokyonight)<br>
+![Rian Sapriand Rauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=true&theme=tokyonight)<br>
 ![Rian Sapriand Rauf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riansapriandrauf&theme=tokyonight&hide_border=false&layout=compact)
 
 ### Support Me
