@@ -12,9 +12,13 @@
 </a>
 
 🔭 I’m currently working on nothing<br>
-![riansapriandrauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=3&theme=tokyonight)<br>
+<!-- Mulai Statistik GitHub -->
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=true&theme=tokyonight&hide=stars,issues&count_private=true&include_all_commits=true)](https://github.com/riansapriandrauf)
+[![Top Bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=riansapriandrauf&layout=compact&theme=tokyonight)](https://github.com/riansapriandrauf)
+<!-- Akhir Statistik GitHub -->
 
-![riansapriandrauf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riansapriandrauf&theme=tokyonight&hide_border=false&layout=compact)
+<!-- ![riansapriandrauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=true&theme=tokyonight)<br>
+![riansapriandrauf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riansapriandrauf&theme=tokyonight&hide_border=false&layout=compact) -->
 
 ### Support Me
 
