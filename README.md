@@ -15,6 +15,19 @@
 <!-- ![Rian Sapriand Rauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=true&theme=tokyonight)<br> -->
 ![Rian Sapriand Rauf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riansapriandrauf&theme=tokyonight&hide_border=false&layout=compact)
 
+
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+
+```txt
+HTML         3 mins          ██████████▓░░░░░░░░░░░░░░   42.92 %
+CSS          2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+PHP          1 min           █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+JavaScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+```
+
+<!--END_SECTION:waka-->
 ### Support Me
 
 <a href="https://saweria.co/riansapriandrauf" target="_blank">
