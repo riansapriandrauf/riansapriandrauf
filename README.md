@@ -1,4 +1,4 @@
-### Hi 👋, I'm Rian Sapriand Rauf
+<img width="315" alt="image" src="https://github.com/user-attachments/assets/331abde4-7e44-4cc7-9975-ad0b4cf0546f">### Hi 👋, I'm Rian Sapriand Rauf
 
 ![riansapriandrauf's Profile views](https://komarev.com/ghpvc/?username=riansapriandrauf&style=flat&color=blueviolet)<br>
 <a href="https://instagram.com/sapriandrf" target="_blank" >
@@ -12,8 +12,8 @@
 </a>
 
 🔭 I’m currently working on nothing<br>
-![Rian Sapriand Rauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=riansapriandrauf&show_icons=true&theme=tokyonight)<br>
-![Rian Sapriand Rauf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riansapriandrauf&theme=tokyonight&hide_border=false&layout=compact)
+![Rian Sapriand Rauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=natrixdev&show_icons=true&theme=tokyonight)<br>
+![Rian Sapriand Rauf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=natrixdev&theme=tokyonight&hide_border=false&layout=compact)
 
 ### Support Me
 
